@@ -1,0 +1,7 @@
+step1: start
+step2:select start and end points of the curve 
+step3:calculate the distance between the start and end points  
+step4: identify the maximum distance (farthest point)
+step5:If maximum distance is within the tolerance , simplify the curvee by replacing all ponits with a straight line
+step6:if it exceeds the tolerance repeat the process until all segments are within the tolerance
+step7:end
